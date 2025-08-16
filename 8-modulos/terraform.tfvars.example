@@ -1,0 +1,3 @@
+subscription_id = "Id de la suscripción de Azure"
+vm_username = "Digite el usuario"
+vm_password = "Digite la contraseña"
